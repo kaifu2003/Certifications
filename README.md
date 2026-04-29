@@ -8,7 +8,7 @@ This repository contains my certifications and practical work completed in the f
 ## 🧠 Machine Learning Training
 Organization: Mindenious  
 Duration: July 2025 – August 2025  
-📄 [View Certificate] (file:///C:/Users/kaifu/Downloads/Training%20Certificate-%20ML%20USING%20PYTHON%20(2).pdf)
+📄 View Certificate
 
 During this training, I developed a strong foundation in Machine Learning using Python. The focus was on understanding core concepts and applying them practically.
 

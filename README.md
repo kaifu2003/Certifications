@@ -44,7 +44,7 @@ I was awarded the Certificate of Excellence for outstanding performance and dedi
 
 ---
 
-# 🚀 Projects Developed During Training
+# 🚀 Projects Developed During Training:
 
 As part of my learning, I built multiple projects to apply machine learning concepts in real-world scenarios:
 
